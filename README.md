@@ -14,9 +14,9 @@
 
 <br><br>
 
-- :escuela: soy tecnologo en desarrollo de software y aplicaciones moviles, con certificacion en ciberseguridad, proveniente de la universidad del valle.
-- :tecnologias: se usar multiples lenguajes de programacion como lo son, python, java, c++, javascript con frameworks.
-- :estudios: acualmente soy estudiante en desarrollo de software, queriendo aprender nuevas tecnologias cada dia, tambien estudiando todo lo relacionado con inteligencia artificial y aumentando mis conocimientos en ciberseguridad.
-- :curriculum: abierto a nuevas oportunidades laborales.
-- :sitio web: puedes visitar mi sitio web.
+- 🏫escuela: soy tecnologo en desarrollo de software y aplicaciones moviles, con certificacion en ciberseguridad, proveniente de la universidad del valle.
+- 🖥️tecnologias: se usar multiples lenguajes de programacion como lo son, python, java, c++, javascript con frameworks.
+- 📖estudios: acualmente soy estudiante en desarrollo de software, queriendo aprender nuevas tecnologias cada dia, tambien estudiando todo lo relacionado con inteligencia artificial y aumentando mis conocimientos en ciberseguridad.
+- 📃curriculum: abierto a nuevas oportunidades laborales.
+- 🌐sitio web: puedes visitar mi sitio web.
 <br>
